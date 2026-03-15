@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node.js
+node_modules/
+npm-debug.log
+.packages/
+
+# IDE patterns
+.vscode/
+.idea/
+.DS_Store
+*.sublime-workspace
+*.sublime-project
