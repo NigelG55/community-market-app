@@ -1,0 +1,6 @@
+Django
+Django REST framework
+psycopg2-binary
+Pillow
+django-cors-headers
+# Other backend dependencies
